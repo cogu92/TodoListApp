@@ -1,0 +1,5 @@
+C:\Users\nicol\Downloads\TodoListSolution\TodoList.Tests\obj\Debug\net8.0\TodoList.Tests.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\TodoListSolution\TodoList.Tests\obj\Debug\net8.0\TodoList.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Downloads\TodoListSolution\TodoList.Tests\obj\Debug\net8.0\TodoList.Tests.AssemblyInfoInputs.cache
+C:\Users\nicol\Downloads\TodoListSolution\TodoList.Tests\obj\Debug\net8.0\TodoList.Tests.AssemblyInfo.cs
+C:\Users\nicol\Downloads\TodoListSolution\TodoList.Tests\obj\Debug\net8.0\TodoList.Tests.csproj.CoreCompileInputs.cache
