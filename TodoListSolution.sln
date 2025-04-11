@@ -1,8 +1,32 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
-# 
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Tests", "TodoList.Tests\TodoList.Tests.csproj", "{9A582B3D-0895-43F8-BB80-08CCC97775B9}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoList.Tests", "TodoList.Tests\TodoList.Tests.csproj", "{9A582B3D-0895-43F8-BB80-08CCC97775B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.API", "TodoList.API\TodoList.API.csproj", "{57E64E26-A920-4F2F-BAA9-7054178DA39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoList.API", "TodoList.API\TodoList.API.csproj", "{57E64E26-A920-4F2F-BAA9-7054178DA39D}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "vue-todolist", "vue-todolist\", "{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55968"
+		Debug.AspNetCompiler.PhysicalPath = "vue-todolist\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55968\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55968"
+		Release.AspNetCompiler.PhysicalPath = "vue-todolist\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55968\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55968"
+		SlnRelativePath = "vue-todolist\"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,5 +62,23 @@ Global
 		{57E64E26-A920-4F2F-BAA9-7054178DA39D}.Release|x64.Build.0 = Release|Any CPU
 		{57E64E26-A920-4F2F-BAA9-7054178DA39D}.Release|x86.ActiveCfg = Release|Any CPU
 		{57E64E26-A920-4F2F-BAA9-7054178DA39D}.Release|x86.Build.0 = Release|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Debug|x64.Build.0 = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Debug|x86.Build.0 = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Release|x64.ActiveCfg = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Release|x64.Build.0 = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Release|x86.ActiveCfg = Debug|Any CPU
+		{F9E8A42E-1369-446E-B8F5-7EF224DEAE79}.Release|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {105B1089-BCA9-4CC0-A93A-33B6DA1FFA2D}
 	EndGlobalSection
 EndGlobal

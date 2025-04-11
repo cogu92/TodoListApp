@@ -47,7 +47,7 @@ cd TodoList.API
 dotnet run
 ```
 
-Abrir en navegador: [http://localhost:5000/swagger](http://localhost:5000/swagger)
+Abrir en navegador: [http://localhost:44338/swagger](http://localhost:44338/swagger)
 
 ---
 
